@@ -1,1 +1,58 @@
+<!DOCTYPE html>
+<html>
+	<body>
+    	<link href='https://fonts.googleapis.com/css?family=Assistant' rel='stylesheet'>
+        <link href='https://fonts.googleapis.com/css?family=Allerta' rel='stylesheet'>
+		<div style=
+		"background:linear-gradient(45deg,#18cc98, #11afb1, #079cc8);
+		background-repeat:no-repeat;
+		margin: -1rem;
+		color:white; 
+		font-family:Allerta; 
+		padding:25px; 
+		text-align:center; 
+		font-size:4vh">
+			<h1>Harsh Singh</h1>
+		</div>
+        <h6> <pre></pre></h1>
+		<div>
+        	<table style=
+            "font-family:Assistant;
+            font-size:4vmin">
+  				<tr>
+    				<td style=
+                    "padding:2px 6px 6px 6px;
+                    border-bottom: 2.5px solid #FFFFFF">
+                    	<a 
+                        style="color:black; 
+                        text-decoration:none"
+                        href=/>
+                        	HOMEPAGE
+                        </a>
+                    </td>
+    				<td style=
+                    "padding:2px 6px 6px 6px;
+                    border-bottom: 2.5px solid #FFFFFF">
+                    	<a 
+                        style="color:black; 
+                        text-decoration:none"
+                        href=/projects>
+                        	PROJECTS
+                        </a>
+                    </td>
+                    <td style=
+                    "padding:2px 6px 6px 6px;
+                    border-bottom: 2.5px solid #00507C">
+                    	<a 
+                        style="color:black; 
+                        text-decoration:none"
+                        href=/aboutme>
+                        	ABOUT ME
+                        </a>
+                    </td>
+  				</tr>
+			</table>
+		</div>
+	</body>
+</html>
 
