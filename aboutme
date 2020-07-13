@@ -22,7 +22,7 @@
   				<tr>
     				<td style=
                     "padding:2px 6px 6px 6px;
-                    border-bottom: 2.5px solid #00507C">
+                    border-bottom: 2.5px solid #FFFFFF">
                     	<a 
                         style="color:black; 
                         text-decoration:none"
@@ -42,7 +42,7 @@
                     </td>
                     <td style=
                     "padding:2px 6px 6px 6px;
-                    border-bottom: 2.5px solid #FFFFFF">
+                    border-bottom: 2.5px solid #00507C">
                     	<a 
                         style="color:black; 
                         text-decoration:none"
